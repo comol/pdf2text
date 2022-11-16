@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pdf2text": {
+      "commandName": "Project",
+      "commandLineArgs": "\"c:\\temp\\1.pdf\" \"c:\\temp\\1.txt\""
+    }
+  }
+}
