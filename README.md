@@ -6,4 +6,4 @@ console utility, havn't find on github or google.
 Build with Visual studio 2022
 
 # usage:
-pdftotext <pdffile.pdf> <txtfile.txt>
+pdf2text <pdffile.pdf> <txtfile.txt>
